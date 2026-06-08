@@ -1,2 +1,0 @@
-print("Hello world")
-# This is a simple Python program that prints "Hello world" to the console. It serves as a basic introduction to programming in Python. You can run this code in any Python environment, and it will display the message "Hello world".
