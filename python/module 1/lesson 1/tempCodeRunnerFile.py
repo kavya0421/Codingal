@@ -1,5 +1,5 @@
-print("Hello World!")
-#welcome message
+# Printing the title
+print("This is a title")
 
 # Step 1: Waking up
 print("I wake up at 7 AM.")
@@ -11,7 +11,10 @@ print("I go to school at 8 AM.")
 print("I play with my friends in the evening.")
 
 # Step 4: Studying
-print("I study for 2 hours at night.")
+print("I study for 2 hours at night. \n")
 
 # Calculating total study time in a week
-print("Total study hours in a week:",2+7)
+print("Total study hours in a week:", 2 * 7)
+
+print("welcome to ", end="*")
+
